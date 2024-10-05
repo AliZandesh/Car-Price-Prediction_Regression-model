@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/roshancyriacmathew/Car-price-prediction-using-Linear-regression-Machine-Learning-Project/refs/heads/main/car%20data.csv
+
+https://github.com/roshancyriacmathew/Car-price-prediction-using-Linear-regression-Machine-Learning-Project
+
+https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/code?datasetId=33080&sortBy=voteCount
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
